@@ -1,3 +1,10 @@
+'''TO DO:
+Logo doesn't display properly; need to use a monospace font
+Add buttons
+Add additional screens that can be navigated to with the afore mentioned buttons
+Add text input fields'''
+
+
 from tkinter import *
 from tkinter.ttk import *
 
